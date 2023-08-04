@@ -1,4 +1,4 @@
-# 42cursus' project Ft_printf (Printf's refactoring) 
+# 42 school project Ft_printf (Printf's refactoring) 
 
 ## Project Overview
 Ft_printf is a 42 Project that aims to mimic the printf function (included in <stdio.h>).<br /><br />
